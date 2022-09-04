@@ -1,6 +1,7 @@
  ### Hi there 👋
 
   - 🔭 Developer at Thai Life Insurance Public Company Limited.
+  - ☕ Latte & Americano addicted
   - 🌱 I’m currently learning ... in role of Full Stack Developer
   - 📫 How to reach me: <a href="https://medium.com/@newzpanuwat">@medium</a>
   - 📘 Codesandbox: <a href="https://codesandbox.io/dashboard/all/?workspace=5a05b225-c896-4298-9f26-6ae49ea49c8f">@codesandbox</a>
