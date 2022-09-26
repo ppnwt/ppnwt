@@ -5,7 +5,6 @@
   - 🌱 I’m currently learning ... in role of Full Stack Developer
   - 🔆 I'm passionate about learning and development
   - ✨ Develop future goals for self-improvement
-  - 🏃 I'm Runner / target road to 10k sub 60 mins
   - 📫 How to reach me: <a href="https://medium.com/@newzpanuwat">@medium</a>
   - 📘 Codesandbox: <a href="https://codesandbox.io/dashboard/all/?workspace=5a05b225-c896-4298-9f26-6ae49ea49c8f">@codesandbox</a>
  </div>
