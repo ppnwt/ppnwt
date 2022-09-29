@@ -1,6 +1,6 @@
  ### Hi there 👋
 
-  - 🔭 Developer at Thai Life Insurance Public Company Limited.
+  - 🔭 Developer (Outsource) at Thai Life Insurance Public Company Limited.
   - ☕ Latte & Americano addicted
   - 🌱 I’m currently learning ... in role of Full Stack Developer
   - 🔆 I'm passionate about learning and development
