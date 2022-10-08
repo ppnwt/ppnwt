@@ -1,6 +1,6 @@
  ### Hi there 👋
 
-  - 🔭 Developer (Outsource) at Thai Life Insurance Public Company Limited.
+  - 🔭 I'm Developer (Outsource) at Thai Life Insurance Public Company Limited.
   - ☕ Hot Latte & Ice Americano addicted | Hot tea
   - 🌱 I’m currently learning in role of Full Stack Developer | Front Back Deployment |
   - 🔆 I'm passionate about learning and development
