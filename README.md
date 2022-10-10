@@ -4,7 +4,7 @@
   - ☕ Hot Latte & Ice Americano addicted | Hot tea
   - 🌱 I’m currently learning in role of Full Stack Developer | Front Back Deployment |
   - 🔆 I'm passionate about learning and development
-  - ✨ Develop future goals for self-improvement
+  - ✨ Develop future goals for self-improvement and Big motivation
   - 📫 Blog here: <a href="https://medium.com/@newzpanuwat">@medium</a>
  </div>
  <div class=""column>
