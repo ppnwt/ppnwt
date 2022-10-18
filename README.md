@@ -1,7 +1,7 @@
  ### Hi there 👋
 
   - 🔭 I'm Developer (Outsource) at Thai Life Insurance Public Company Limited.
-  - ☕ Hot Latte & Ice Americano addicted | Hot tea | Moccha
+  - ☕ Hot Latte & Ice Americano addicted | Hot tea | Mocha | Cappuccino
   - 🌱 I’m currently learning in role of Full Stack Developer | Front Back Deployment |
   - 🔆 I'm passionate about learning and development
   - ✨ Develop future goals for self-improvement and Big motivation
