@@ -4,7 +4,7 @@
   - ☕ Hot Latte & Ice Americano addicted | Hot tea | Mocha | Cappuccino
   - 🌱 I’m currently learning in role of Full Stack Developer | Front Back Deployment |
   - 🔆 I'm passionate about learning and development 🔆
-  - ✨ Develop future goals for self-improvement and Big motivation
+  - ✨ Develop future goals for self-improvement and Big motivation ✨
  </div>
  <div class=""column>
  <a href="https://app.daily.dev/newzpanuwat"><img src="https://github.com/newzpanuwat/newzpanuwat/blob/main/devcard.svg" width="280" alt="New Panuwat's Dev Card"/></a>
