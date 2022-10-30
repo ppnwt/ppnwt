@@ -9,7 +9,10 @@
  <a href="https://app.daily.dev/newzpanuwat"><img src="https://github.com/newzpanuwat/newzpanuwat/blob/main/devcard.svg" width="200" alt="New Panuwat's Dev Card"/></a>
  </div>
  <div>
-  🔭 I'm Developer (Outsource) at Thai Life Insurance Public Company Limited. <br>
+ <h3 align="left">Work: </h3>
+  🔭 (2022-Present) Full Stack Developer(React) at Apar Technologies<br>
+  🔭 (2017-2022) Software Engineer at Swiftlet Co.,Ltd <br>
+ <h3 align="left">Life: </h3>
   ☕ Hot Latte & Ice Americano addicted | Hot tea | Mocha | Cappuccino | ☕ <br>
   🌱 I’m currently learning in role of Full Stack Developer | Front Back Deployment | 🌱 <br>
   🔆 I'm passionate about learning and development 🔆 <br>
