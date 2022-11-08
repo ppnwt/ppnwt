@@ -11,8 +11,8 @@
  </div>
  <div>
  <h3 align="left">Work: </h3>
-  🔭 (2022-Present) Full Stack Developer(React) at Apar Technologies<br>
-  🔭 (2017-2022) Software Engineer at Swiftlet Co.,Ltd <br>
+  🏢 (2022-Present) Full Stack Developer(React) at Apar Technologies<br>
+  🏢 (2017-2022) Software Engineer at Swiftlet Co.,Ltd <br>
  <h3 align="left">Life: </h3>
   ☕  Hot Latte & Ice Americano addicted | Hot tea | Mocha | Cappuccino | <br>
   🌱 I’m currently learning in role of Full Stack Developer | Front Back Deployment | <br>
