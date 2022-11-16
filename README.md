@@ -15,7 +15,7 @@
    (2017-2022) Software Engineer at Swiftlet Co.,Ltd <br>
  <h3 align="left">Life: </h3>
   ☕ Hot Latte & Ice Americano addicted | Hot tea | Mocha | Cappuccino | <br>
-  🌱 I’m currently learning in role of Full Stack Developer | Front Back Deployment | <br>
+  🌱 I’m currently learning in role of Full Stack Developer <br>
   🔆 I'm passionate about learning and development <br>
   ✨ Develop future goals for self-improvement and Big motivation <br>
  </div>
