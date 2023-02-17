@@ -9,7 +9,7 @@ production and delivery of products and services. My experience as a software en
 
 <div>
   - Hot Latte & Ice Americano addicted <br>
-  - I’m currently learning in role of Full Stack Developer <br>
+  - I’m currently learning in role of Full Stack Developer (NodeJS & ReactJS) <br>
   - I'm passionate about learning and development <br>
   - Develop future goals for self-improvement and Big motivation <br>
   - Now, Learning new path is Blockchain, Smart Contract Technology <br>
