@@ -31,4 +31,4 @@ production and delivery of products and services. My experience as a software en
 <!-- <h3 align="left">Trophy:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newzpanuwat&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="newzpanuwat" /></a> </p> -->
 
-![Panu's GitHub stats](https://github-readme-stats.vercel.app/api?username=newzpanuwat&show_icons=true&theme=radical)
+<!-- ![Panu's GitHub stats](https://github-readme-stats.vercel.app/api?username=newzpanuwat&show_icons=true&theme=radical) -->
