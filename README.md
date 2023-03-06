@@ -7,14 +7,14 @@
 <!-- My primary goal is to apply my technical expertise all throughout the full software life cycle to ensure the
 production and delivery of products and services. My experience as a software engineer enhanced my abilities in designing, implementing, testing, and upgrading software. One of my objectives is to keep updated with the latest IT trends and technologies. -->
 
-<div>
-  - Hot Latte & Ice Americano addicted <br>
-  - I’m currently learning in role of Full Stack Developer (NodeJS & ReactJS) <br>
-  - I'm passionate about learning and development <br>
-  - Develop future goals for self-improvement and Big motivation <br>
-  - Now, Learning new path is Blockchain, Smart Contract Technology <br>
- </div>
+ - Hot Latte & Ice Americano addicted <br>
+ - I’m currently learning in role of Full Stack Developer (NodeJS & ReactJS) <br>
+ - I'm passionate about learning and development <br>
+ - Develop future goals for self-improvement and Big motivation <br>
+ - Now, Learning new path is Blockchain, Smart Contract Technology <br>
 
+ ### My Favorite Book
+ - Cracking the code interview, Gayle laakmann mcdowell, 6th Edition
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
