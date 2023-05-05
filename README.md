@@ -16,6 +16,8 @@ production and delivery of products and services. My experience as a software en
 
  ### My Favorite Book
  - Cracking the code interview, Gayle laakmann mcdowell, 6th Edition
+ - Head First Object-Oriented Analysis and Design, Brett D. McLaughlin
+ - Dive into design patterns, Alexanders shevets
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
