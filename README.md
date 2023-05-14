@@ -13,6 +13,7 @@ production and delivery of products and services. My experience as a software en
  - Develop future goals for self-improvement and Big motivation <br>
  - Now, Learning new path is Blockchain, Smart Contract Technology <br>
  - Next, Learning about programming languages (Golang) <br>
+ - Moving forward !!! 🧡🧡🧡
 
  ### My Favorite Book
  - Cracking the code interview, Gayle laakmann mcdowell, 6th Edition
