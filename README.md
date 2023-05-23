@@ -22,10 +22,11 @@ production and delivery of products and services. My experience as a software en
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://app.daily.dev/newzpanuwat"><img src="https://github.com/newzpanuwat/newzpanuwat/blob/main/devcard.svg" align="center" width="80" alt="New Panuwat's Dev Card"/></a>
- &nbsp;
-<a href="https://linkedin.com/in/newzpanuwat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="newzpanuwat" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/newzpanuwat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="newzpanuwat" height="30" width="40" /></a>
+ <a href="https://www.leetcode.com/xpanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xpanu" height="30" width="40" /></a>
+ <a href="https://app.daily.dev/newzpanuwat"><img src="https://github.com/newzpanuwat/newzpanuwat/blob/main/devcard.svg" align="center" width="40" alt="New Panuwat's Dev Card"/></a>
 </p>
+
 
 <div class="d-flex flex-justify-between">
 <h3 align="left">Languages and Tools:</h3>
