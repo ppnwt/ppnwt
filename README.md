@@ -14,7 +14,6 @@ production and delivery of products and services. My experience as a software en
  - I'm passionate about learning and development <br>
  - Develop future goals for self-improvement and Big motivation <br>
  - Now, Learning new path is Blockchain, Smart Contract Technology <br>
- - Next, Learning about programming languages (Golang) <br>
  - Moving forward !!! 🧡🧡🧡
 
  ### My Favorite Book
