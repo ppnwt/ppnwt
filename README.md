@@ -10,7 +10,7 @@
 production and delivery of products and services. My experience as a software engineer enhanced my abilities in designing, implementing, testing, and upgrading software. One of my objectives is to keep updated with the latest IT trends and technologies. -->
 
  - Hot Latte & Ice Americano addicted <br>
- - I’m currently learning in role of Full Stack Developer (NodeJS & ReactJS) <br>
+ - I’m currently learning in the role of Full Stack Developer (NodeJS & ReactJS) <br>
  - I'm passionate about learning and development <br>
  - Develop future goals for self-improvement and Big motivation <br>
  - Moving forward !!! 🧡🧡🧡
@@ -90,11 +90,9 @@ production and delivery of products and services. My experience as a software en
  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
- <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+ <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
 </p>
  
 	
 <!-- <h3 align="left">Trophy:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newzpanuwat&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="newzpanuwat" /></a> </p> -->
-
-<!-- ![Panu's GitHub stats](https://github-readme-stats.vercel.app/api?username=newzpanuwat&show_icons=true&theme=radical) -->
