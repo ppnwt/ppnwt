@@ -13,7 +13,6 @@ production and delivery of products and services. My experience as a software en
  - I’m currently learning in the role of Full Stack Developer (NodeJS & ReactJS) <br>
  - I'm passionate about learning and development <br>
  - Develop future goals for self-improvement and Big motivation <br>
- - Moving forward !!! 🧡🧡🧡
 
  ### My Favorite Book
  - Cracking the code interview, Gayle laakmann mcdowell, 6th Edition
