@@ -18,7 +18,7 @@ production and delivery of products and services. My experience as a software en
  - Cracking the code interview, Gayle Laakmann McDowell, 6th Edition
  - Head First Object-Oriented Analysis and Design, Brett D. McLaughlin
  - Dive into design patterns, Alexanders shevets
- - Building microservices Designing Fine=Grained Systems, Sam Newman
+ - Building microservices Designing Fine Grained Systems, Sam Newman
 
 
 ### Developer/Forums
