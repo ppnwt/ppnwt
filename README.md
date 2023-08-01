@@ -9,16 +9,17 @@
 <!-- My primary goal is to apply my technical expertise all throughout the full software life cycle to ensure the
 production and delivery of products and services. My experience as a software engineer enhanced my abilities in designing, implementing, testing, and upgrading software. One of my objectives is to keep updated with the latest IT trends and technologies. -->
 
- - Hot Latte & Ice Americano addicted <br>
+ - Hot Latte & Ice Creamed Americano addicted <br>
  - I’m currently learning in the role of Full Stack Developer (NodeJS & ReactJS) <br>
  - I'm passionate about learning and development <br>
  - Develop future goals for self-improvement and Big motivation <br>
 
  ### My Favorite Book
- - Cracking the code interview, Gayle Laakmann McDowell, 6th Edition
- - Head First Object-Oriented Analysis and Design, Brett D. McLaughlin
- - Dive into design patterns, Alexanders shevets
- - Building microservices Designing Fine Grained Systems, Sam Newman
+ - Cracking the code interview - Gayle Laakmann McDowell, 6th Edition
+ - Head First Object-Oriented Analysis, and Design - Brett D. McLaughlin
+ - Dive into design patterns - Alexanders shevets
+ - Building Microservices Designing Fine-Grained Systems - Sam Newman
+ - Grokking Algorithms - Manning Publications
 
 
 ### Developer/Forums
