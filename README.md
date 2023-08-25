@@ -11,16 +11,14 @@ production and delivery of products and services. My experience as a software en
 
  - Hot Latte & Ice Creamed Americano addicted <br>
  - I’m currently learning in the role of Full Stack Developer (NodeJS & ReactJS) <br>
- - I'm passionate about learn new things and develop existing is better <br>
+ - I'm passionate about learning new things and developing existing is better <br>
  - Develop future goals for self-improvement and Big motivation <br>
 
  ### My Favorite Book
  - Cracking the code interview - Gayle Laakmann McDowell, 6th Edition
  - Head First Object-Oriented Analysis, and Design - Brett D. McLaughlin
- - Dive into design patterns - Alexanders shevets
+ - Dive into design patterns - Alexander Shevets
  - Building Microservices Designing Fine-Grained Systems - Sam Newman
- - Grokking Algorithms - Manning Publications
-
 
 ### Developer/Forums
 <a href="https://www.leetcode.com/xpanu" target="_blank">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
