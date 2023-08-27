@@ -5,9 +5,11 @@
 
 
  
+
+My primary goal is to apply my technical expertise throughout the full software life cycle to ensure the
+production and delivery of products and services. My experience as a software engineer enhanced my abilities in designing, implementing, testing, and upgrading software. One of my objectives is to keep updated with the latest IT trends and technologies.
+
  ### About me
-<!-- My primary goal is to apply my technical expertise all throughout the full software life cycle to ensure the
-production and delivery of products and services. My experience as a software engineer enhanced my abilities in designing, implementing, testing, and upgrading software. One of my objectives is to keep updated with the latest IT trends and technologies. -->
 
  - Hot Latte & Ice Creamed Americano addicted <br>
  - I’m currently learning in the role of Full Stack Developer (NodeJS & ReactJS) <br>
