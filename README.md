@@ -12,7 +12,7 @@ production and delivery of products and services. My experience as a software en
  ### About me
 
  - Hot Latte & Ice Creamed Americano addicted <br>
- - I’m currently learning in the role of Full Stack Developer (NodeJS & ReactJS) <br>
+ - I’m currently learning in the role of Full Stack Developer <br>
  - I'm passionate about learning new things and developing existing is better <br>
  - Develop future goals for self-improvement and Big motivation <br>
 
