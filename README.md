@@ -11,7 +11,7 @@ production and delivery of products and services. My experience as a software en
 
  ### About me
 
- - Hot Latte & Ice Creamed Americano addicted <br>
+ - Hot Latte & Ice Creamed Americano <a href="https://www.facebook.com/Onetwotwocoffeebar/">(One Two Two Coffee)</a> <br>
  - I’m currently learning in the role of Full Stack Developer <br>
  - I'm passionate about learning new things and developing existing is better <br>
  - Develop future goals for self-improvement and Big motivation <br>
@@ -91,9 +91,8 @@ production and delivery of products and services. My experience as a software en
  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
- <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
+ <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354521/vitejs.svg" alt="vitejs" width="40" height="40"/> </a>
 </p>
- 
 	
 <!-- <h3 align="left">Trophy:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newzpanuwat&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="newzpanuwat" /></a> </p> -->
