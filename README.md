@@ -9,7 +9,6 @@ production and delivery of products and services. My experience with 7 years as 
  ### About me
 
  - Hot Latte & Ice Creamed Americano <a href="https://www.facebook.com/Onetwotwocoffeebar/">(One Two Two Coffee)</a> <br>
- - I’m currently learning in the role of Full Stack Developer <br>
  - I'm passionate about learning new things and developing existing is better <br>
  - Develop future goals for self-improvement and Big motivation <br>
 
