@@ -90,6 +90,10 @@ production and delivery of products and services. My experience with 7 years as 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354521/vitejs.svg" alt="vitejs" width="40" height="40"/> </a>
 </p>
+
+### daily.dev
+<a href="https://app.daily.dev/newzpanuwat"><img src="https://api.daily.dev/devcards/v2/D5H0LzrUvE8zqUzs6q4Wm.png?type=wide&r=1vl" width="400" alt="New Panuwat's Dev Card"/></a>
+
 	
 <!-- <h3 align="left">Trophy:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newzpanuwat&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="newzpanuwat" /></a> </p> -->
