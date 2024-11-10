@@ -13,6 +13,7 @@ production and delivery of products and services. My experience with 7 years as 
  - Develop future goals for self-improvement and Big motivation <br>
 
  ### My Favorite Book
+ - Grokking algorithms - Aditya Y. Bhavaga
  - Cracking the code interview - Gayle Laakmann McDowell, 6th Edition
  - Head First Object-Oriented Analysis, and Design - Brett D. McLaughlin
  - Dive into design patterns - Alexander Shevets
@@ -21,7 +22,6 @@ production and delivery of products and services. My experience with 7 years as 
 ### Developer/Forums
 <a href="https://www.leetcode.com/xpanu" target="_blank">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
 <a href="https://www.hackerrank.com/profile/panuwat_brd" target="_blank">![Hackkerrank](https://img.shields.io/badge/Hackerrank-3DA564?style=for-the-badge&logo=Hackkerrank)
-<a href="https://app.daily.dev/newzpanuwat" target="_blank">![Dailydev](https://img.shields.io/badge/DailyDev-1.7k-000000?style=for-the-badge&logo=DailyDev&logoColor=#d16c06)</a>
 
 <!-- FULL VERSION  -->
 
