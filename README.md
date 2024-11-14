@@ -14,9 +14,9 @@ production and delivery of products and services. My experience with 7 years as 
 
  ### My Favorite Book
  - Grokking algorithms - Aditya Y. Bhavaga
+ - Grokking functional programming - Michal Plachta
  - Cracking the code interview - Gayle Laakmann McDowell, 6th Edition
  - Head First Object-Oriented Analysis, and Design - Brett D. McLaughlin
- - Dive into design patterns - Alexander Shevets
  - Building Microservices Designing Fine-Grained Systems - Sam Newman
 
 ### Developer/Forums
