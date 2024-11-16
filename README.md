@@ -92,10 +92,10 @@ production and delivery of products and services. My experience with 7 years as 
 </p>
 
 -->
-
+<!-- 
 ### daily.dev
 <a href="https://app.daily.dev/newzpanuwat"><img src="https://api.daily.dev/devcards/v2/D5H0LzrUvE8zqUzs6q4Wm.png?type=wide&r=1vl" width="400" alt="New Panuwat's Dev Card"/></a>
-
+-->
 	
 <!-- <h3 align="left">Trophy:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newzpanuwat&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="newzpanuwat" /></a> </p> -->
