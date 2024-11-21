@@ -1,27 +1,27 @@
- ### Hi there 👋
-<a href="https://twitter.com/nilpanuwat" rel="nofollow" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a href="https://medium.com/@ppnwt" rel="nofollow" target="_blank">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
-<a href="https://linkedin.com/in/ppnwt" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
 <!-- My primary goal is to apply my technical expertise throughout the full software life cycle to ensure the
 production and delivery of products and services. My experience with 7 years as a software engineer enhanced my abilities in designing, implementing, testing, and upgrading software. One of my objectives is to keep updated with the latest IT trends and technologies. -->
 
- ### About me
+ ### About me 👋
 
  - Hot Latte & Ice Creamed Americano <a href="https://www.facebook.com/Onetwotwocoffeebar/">(One Two Two Coffee)</a> <br>
  - I'm passionate about learning new things and developing existing is better <br>
  - Develop future goals for self-improvement and Big motivation <br>
 
  ### My Favorite Book
- - Grokking algorithms - Aditya Y. Bhavaga
- - Grokking functional programming - Michal Plachta
- - Cracking the code interview - Gayle Laakmann McDowell, 6th Edition
- - Head First Object-Oriented Analysis, and Design - Brett D. McLaughlin
- - Building Microservices Designing Fine-Grained Systems - Sam Newman
+ - <a href="https://a.co/d/gKpSgUa">Grokking algorithms - Aditya Y. Bhavaga</a>
+ - <a href="https://a.co/d/gKpSgUa">Cracking the code interview - Gayle Laakmann McDowell, 6th Edition</a>
+ - <a href="https://a.co/d/288p7W5">System Design Interview, Alex Xu</a>
+
+### Social/Blog
+<a href="https://twitter.com/nilpanuwat" rel="nofollow" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://medium.com/@ppnwt" rel="nofollow" target="_blank">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+<a href="https://linkedin.com/in/ppnwt" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ### Developer/Forums
 <a href="https://www.leetcode.com/xpanu" target="_blank">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
 <a href="https://www.hackerrank.com/profile/panuwat_brd" target="_blank">![Hackkerrank](https://img.shields.io/badge/Hackerrank-3DA564?style=for-the-badge&logo=Hackkerrank)
+
+
 
 <!-- FULL VERSION  -->
 
