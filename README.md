@@ -18,7 +18,7 @@ production and delivery of products and services. My experience with 7 years as 
 <a href="https://linkedin.com/in/ppnwt" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ### Developer/Forums
-<a href="https://www.leetcode.com/xpanu" target="_blank">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+<!-- <a href="https://www.leetcode.com/xpanu" target="_blank">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a> -->
 <a href="https://www.hackerrank.com/profile/panuwat_brd" target="_blank">![Hackkerrank](https://img.shields.io/badge/Hackerrank-3DA564?style=for-the-badge&logo=Hackkerrank)
 
 
