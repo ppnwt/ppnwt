@@ -13,7 +13,6 @@ production and delivery of products and services. My experience with 7 years as 
  - <a href="https://a.co/d/288p7W5">System Design Interview, Alex Xu</a>
 
 ### Social/Blog
-<a href="https://twitter.com/nilpanuwat" rel="nofollow" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://medium.com/@ppnwt" rel="nofollow" target="_blank">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 <a href="https://linkedin.com/in/ppnwt" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
