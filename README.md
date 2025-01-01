@@ -6,6 +6,7 @@ production and delivery of products and services. My experience with 7 years as 
  - Hot Latte & Ice Creamed Americano <a href="https://www.facebook.com/Onetwotwocoffeebar/">(One Two Two Coffee)</a> <br>
  - I'm passionate about learning new things and developing existing is better <br>
  - Develop future goals for self-improvement and Big motivation <br>
+ - Star Wars Fans💫
 
  ### My Favorite Book
  - <a href="https://a.co/d/gKpSgUa">Grokking algorithms - Aditya Y. Bhavaga</a>
